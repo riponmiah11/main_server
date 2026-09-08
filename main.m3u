@@ -915,7 +915,9 @@ https://broadcast.iptvchannels.workers.dev/live.m3u8?id=559
 http://polarbear.mov:80/live/9857855271/8369553594/694134.ts
 
 #EXTINF:-1 tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/ZB%20cartoon.jpg?raw=true" group-title="CARTOON/KIDS", ZB Cartoon
+https://server.zillarbarta.com/zbcatun/video.m3u8
 http://103.151.61.12/zbcatun/tracks-v1a1/mono.m3u8?token=i7bZaZWaFrSIE0
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/boomerang-us.png" group-title="CARTOON/KIDS", Boomerang (US)
 http://206.212.242.25:80/live/3D7K9pS/68527459040/21007.ts
